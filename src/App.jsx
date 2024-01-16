@@ -366,7 +366,7 @@ function App() {
 
           <button className="button">
             <div className="button-text-and-icon">
-              <h1 className="button-text">GENERATE</h1>
+              <h1 className="button-text">GENERATE!</h1>
 
               <svg width="12" height="12" xmlns="http://www.w3.org/2000/svg">
                 <path
