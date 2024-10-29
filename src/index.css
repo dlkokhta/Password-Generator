@@ -440,7 +440,7 @@ body {
 
 @media (min-width: 1440px) {
   .header {
-    padding: 196px 490px;
+    padding: 30px 490px;
   }
   .strength-form {
     gap: 110px;
